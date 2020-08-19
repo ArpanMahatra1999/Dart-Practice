@@ -1,5 +1,5 @@
 # Dart-Practice
-Dart files describe different features.
+Dart files describe different dart programming language features.
 
 Tools used:
 1. Online Dart IDE
